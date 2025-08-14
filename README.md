@@ -1,5 +1,5 @@
 <h1 align="center">Wenas 👋, Soy Juan Vega</h1>
-<h3 align="center">Estudiante de la universidad Católica de Colombia 😊😊</h3>
+<h3 align="center">Estudiante de la Universidad Católica de Colombia que se encuentra en Tercer Semestre 😊😊</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
