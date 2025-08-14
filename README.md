@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Vega</h1>
+<h1 align="center">Wenas 👋, Soy Juan Vega</h1>
 <h3 align="center">Estudiante de la universidad Católica de Colombia 😊😊</h3>
 
 <h3 align="left">Connect with me:</h3>
